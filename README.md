@@ -1,3 +1,3 @@
-# @unwanted/library-boilerplate
+# @unwanted/promise
 
-Unwanted library boilerplate.
+Useful promise utilites.
